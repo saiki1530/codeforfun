@@ -7,5 +7,6 @@
 </head>
 <body>
 hi
+trait_exists
 </body>
 </html>

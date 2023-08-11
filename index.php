@@ -6,9 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-hi
-trait_exists
-ss
-sang
+xin chào
+
 </body>
 </html>
